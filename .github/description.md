@@ -1,0 +1,1 @@
+A sophisticated AI-powered Retrieval-Augmented Generation (RAG) system designed to help users understand property law documents, contracts, leases, and legal regulations. This system combines vector search with large language models to provide accurate, context-aware answers to legal questions.
